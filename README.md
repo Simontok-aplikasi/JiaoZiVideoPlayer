@@ -6,7 +6,8 @@
 <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
 <a href="https://android-arsenal.com/details/1/3269"><img src="https://img.shields.io/badge/Android%20Arsenal-jiaozivideoplayer-green.svg?style=true"></a>
 </p>
-# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
+[Kingroot apk](https://aapks.com/apk/kingroot/)
+===
 高度自定义的安卓视频播框架
 
 ## 置顶消息：
