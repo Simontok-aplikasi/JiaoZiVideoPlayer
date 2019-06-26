@@ -1,3 +1,5 @@
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
+
 <a href="https://github.com/lipangit/JiaoZiVideoPlayer" target="_blank"><p align="center"><img src="https://user-images.githubusercontent.com/2038071/42033014-0bf1c0b0-7b0e-11e8-811d-7639bcd294eb.png" alt="JiaoZiVideoPlayer" height="150px"></p></a>
 --
 <p align="center">
@@ -6,7 +8,7 @@
 <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
 <a href="https://android-arsenal.com/details/1/3269"><img src="https://img.shields.io/badge/Android%20Arsenal-jiaozivideoplayer-green.svg?style=true"></a>
 </p>
-[Kingroot apk](https://aapks.com/apk/kingroot/)
+
 ===
 高度自定义的安卓视频播框架
 
